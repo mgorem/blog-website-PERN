@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog-website",
+  "main": "action_types.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mgorem"
+  },
+  "keywords": [
+    "blog-website-pern"
+  ],
+  "author": "Orem Gitonga",
+  "license": "ISC",
+  "dependencies": {
+    "auth0-js": "^9.19.0",
+    "history": "^5.2.0",
+    "react-router": "^6.2.1",
+    "react-router-dom": "^6.2.1"
+  }
+}
